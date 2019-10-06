@@ -26,6 +26,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -34,6 +37,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1RBWGDdt31Xduv86H4zVduyZcqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -99,7 +103,7 @@
       <workItem from="1569148109210" duration="8269000" />
       <workItem from="1569775023720" duration="5950000" />
       <workItem from="1570290482077" duration="14707000" />
-      <workItem from="1570332056335" duration="6461000" />
+      <workItem from="1570332056335" duration="7247000" />
     </task>
     <servers />
   </component>
